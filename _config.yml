@@ -49,7 +49,7 @@ address:
   - line: Ohio
 
 # Credits content
-credits: 'S/O to my boy @tommydzierzak he is my hero <a href="tommydzierzak.github.io">this man</a>.'
+credits: 'S/O to my boy @tommydzierzak he is my hero <a href="tommydzierzak.github.io">this man.</a>.'
 
 # Build settings
 markdown: kramdown
